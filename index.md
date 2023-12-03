@@ -1,4 +1,4 @@
-#Table of Contents
+# Table of Contents
 
 > We have consolidated our other pages here for ease of access.
 > - [Code](/MechanicalMirrorPIE2023/Code)
@@ -16,11 +16,11 @@
 > - [About the Team](/MechanicalMirrorPIE2023/About)
  >    - More information about the team behind the project (Ale, Dominic, Lauren, Pauleen, and Rohan)
 
-#About the Project
+# About the Project
 
 We have a 15x15 board with ... blah blah blah
 
-#How it works
+# How it works
 
 First: Press a button to take two photos, one picture of the background, then one with the people in it.
 
@@ -28,12 +28,12 @@ First: Press a button to take two photos, one picture of the background, then on
 
 Then we ...
 
-#Examples
-Example before and after photos:
+# Examples
+## Example before and after photos:
 
-Example Video:
+## Example Video:
 
-#References
+# References
 While this is original work, we did take inspiration from...
 
-#Link to Github
+# Link to Github
