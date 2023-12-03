@@ -29,5 +29,11 @@ First: Press a button to take two photos, one picture of the background, then on
 Then we ...
 
 #Examples
+Example before and after photos:
+
+Example Video:
 
 #References
+While this is original work, we did take inspiration from...
+
+#Link to Github
