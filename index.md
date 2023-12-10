@@ -9,13 +9,12 @@
  >    - Wiring and Servos Galore!
 > - [Mechanical](/MechanicalMirrorPIE2023/Mechanical)
  >    - The Visible (and hidden) mechanics behind the magic!
-  
-> - [References](/MechanicalMirrorPIE2023/References)
- >    - A list of resources our team referenced when creating this project
- 
+
 > - [About the Team](/MechanicalMirrorPIE2023/About)
  >    - More information about the team behind the project (Ale, Dominic, Lauren, Pauleen, and Rohan)
 
+> - [Bill of Materials](/MechanicalMirrorPIE2023/BillofMaterials)
+ >    - A list of components, materials, and their associated costs.
 # About the Project
 
 We have a 15x15 board with ... blah blah blah
@@ -26,12 +25,7 @@ We have a 15x15 board with ... blah blah blah
 ## Example Video:
 
 # Tieing it all together
-
-First: Press a button to take two photos, one picture of the background, then one with the people in it.
-
- extrapolate the 
-
-Then we ...
+System Diagram goes here
 
 # References
 While this is original work, we did take inspiration from...
